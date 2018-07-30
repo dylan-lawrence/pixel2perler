@@ -4,8 +4,8 @@ Thanks to reddit user BIORIO for PERLER colors
 
 Sample Images:
 
-Before:
+Before:  
 ![Before](pictures/regular_pokeball.png)
 
-After:
+After:  
 ![After](pictures/perler_pokeball.png)
